@@ -28,7 +28,7 @@ yarn
 
 ## Data base
 
-It have no database, it uses only a `JSON` file for now.
+It has no database, using only a `JSON` file for now.
 
 ## Frontend
 
